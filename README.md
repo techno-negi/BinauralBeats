@@ -1,6 +1,6 @@
 # Usage:
 1. `Requirements: pip3 install numpy scipy sounddevice`
-2. `RUN:        python3 binauralbeats.py`
+2. `RUN:          python3 binauralbeats.py`
 
 
 # What are BinauralBeats ?
