@@ -1,3 +1,8 @@
+# Usage:
+1. `Requirements: pip3 install numpy scipy sounddevice`
+2. `Usage:        python3 binauralbeats.py`
+
+
 # What are BinauralBeats ?
 Binaural beats are an auditory illusion created when two tones of slightly different frequencies are played separately to each ear. The brain processes these two frequencies and perceives a **third tone — a rhythmic "beat"** whose frequency is the difference between the two original frequencies.
 - <img src="images/The-Basics-of-Binaural-Beats.png" alt="The-Basics-of-Binaural-Beat" width="600" height="600"/>
